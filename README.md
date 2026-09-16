@@ -1,6 +1,5 @@
 # Weather Rest
-
-Applicazione desktop sviluppata in Java e JavaFX per la consultazione delle condizioni meteorologiche e delle previsioni di una città.
+Applicazione desktop sviluppata in Java e JavaFX per la consultazione delle condizioni meteorologiche e delle previsioni di una città tramite le API OpenWeatherMap. Progetto realizzato per i corsi di Ingegneria del Software e Programmazione a Oggetti, a.a. 2023/2024.
 
 Il progetto utilizza le API di **OpenWeatherMap** per ottenere:
 
